@@ -1,0 +1,42 @@
+ul
+{
+	background-color: white;
+}
+
+.main
+{
+	border: 2px solid black;
+	background-color: yellow;
+}
+
+.pi1
+{
+	border: 1px solid black;
+	background-color: #32cd32;
+}
+
+.pi2
+{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: #32cd32;
+}
+
+.pi3
+{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-bottom: 1px solid black;
+	background-color: #32cd32;
+}
+
+.paragraph, .p1, .p2, .p3
+{
+	font-size: 30px;
+}
+
+#para1, #para2, #para3
+{
+	background-color: silver;
+}
